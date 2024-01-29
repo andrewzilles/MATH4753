@@ -1,0 +1,10 @@
+Package: MATH4753ZILLES
+Type: Package
+Title: MATH4753 Lab Functions
+Version: 0.1.0
+Author: Andrew Zilles
+Maintainer: Andrew Zilles <andrew.zilles@ou.edu>
+Description: This will be a package for Lab functions in MATH4753.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
