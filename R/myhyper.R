@@ -6,7 +6,6 @@
 #' @param n number of items selected
 #'
 #' @return numeric vector with a barplot
-#' @export
 #'
 #' @examples
 #' myhyper(iter=100,N=20,r=12,n=5)
