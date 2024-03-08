@@ -2,9 +2,15 @@
 
 export(mybin)
 export(myhyper)
+<<<<<<< HEAD
 export(myncurve)
 export(myplot)
 export(myquad)
 export(pareto)
 importFrom(stats,dnorm)
 importFrom(stats,pnorm)
+=======
+export(myplot)
+export(myquad)
+export(pareto)
+>>>>>>> 215ffd90555de75c9f3e82c25bc8dcb60a5e9e7e
