@@ -24,7 +24,3 @@ pareto <- function(x, mn = "Pareto barplot", ...) {  # x is a vector
   title(main = mn, ...)
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 215ffd90555de75c9f3e82c25bc8dcb60a5e9e7e
